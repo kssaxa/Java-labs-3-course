@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.ArrayList;
 
-public class Main
+public class Lab_1
 {
     public static boolean isSelfDivisor(int number)
     {
