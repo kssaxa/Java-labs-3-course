@@ -1,0 +1,5 @@
+Ivanov   Ivan   2001   123 Sovetskaya
+Petrov   Petr   2004   789 Kalinina
+Anna   Oleynikova   2003   456 Sovetskaya
+Ksenya   Egorova   2004   101 Lenina
+Alexandra   Kolpakova   2003   222 Pogranichnaya
